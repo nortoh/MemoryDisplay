@@ -1,6 +1,21 @@
 # MemoryDisplay
 Turn MIPS hex instructions into binary. This helps for instruction decoding in certain university computer science courses.
 
+# Example Output
+```
+Please enter a value in hex.
+> 00a42820
+Adding 8 zeros
+Result: 00000000101001000010100000100000
+[31:26] 000000
+[25:21] 00101
+[20:16] 00100
+[15:11] 00101
+[15:0] 0010100000100000
+[5:0 (funcCode)] 100000
+> 
+```
+
 # License
 MIT License
 

@@ -4,7 +4,7 @@ import java.math.BigInteger;
 import java.util.Scanner;
 
 /**
- * @version 1.0
+ * @version 1.1
  * @author Christian Horton
  */
 public class MemoryDisplay {

@@ -15,7 +15,7 @@ public class MemoryDisplay {
      */
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-
+        System.out.println("MemoryDisplay v1.1 - Christian Horton");
         System.out.println("Please enter a value in hex.");
         do {
             System.out.print("> ");
